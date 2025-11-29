@@ -259,7 +259,7 @@
                             </li>
                             <li>
                                 <strong>Step 3 — Pattern adapters.</strong>
-                                Structural and statistical features from the knowledge graph (KG) are used to train a base encoder with a global fraud-versus-non-fraud head. At inference time, the frozen encoder and head are combined with lightweight adapters and typology-specific heads, so that predictions merge a global fraud score with typology-specific scores. Adapter activations are written back to the KG as pattern-specific signals, providing decision traceability: each model output can be decomposed into contributing patterns and linked to the underlying nodes, edges, and CSV rows (Pfeiffer et al., 2021; Paranjape et al., 2017; Li et al., 2024).
+                                Structural and statistical features from the knowledge graph (KG) are used to train a base encoder with a global fraud-versus-non-fraud head. At inference time, the frozen encoder and head are combined with lightweight adapters and typology-specific heads, so that predictions merge a global fraud score with typology-specific scores. Adapter activations are written back to the KG as pattern-specific signals, providing decision traceability: each model output can be decomposed into contributing patterns and linked to the underlying nodes, edges, and csv rows (Pfeiffer et al., 2021; Paranjape et al., 2017; Li et al., 2024).
                             </li>
                         </ul>
                     </ol>
