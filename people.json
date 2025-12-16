@@ -8,6 +8,28 @@
     "photo": "",
     "type": ""
   },
+
+  "members": [
+  {
+    "name": "Ricardo Penck Benazzi",
+    "role": "Digital Forensics Expert (Special Class) –  Federal Police",
+    "website": "",
+    "google_scholar": "",
+    "linkedin": "",
+    "photo": "",
+    "type": "member"
+  },
+  {
+    "name": "Roberto Zaina",
+    "role": "Federal Police Officer (Special Class) –  Federal Police",
+    "website": "",
+    "google_scholar": "",
+    "linkedin": "",
+    "photo": "",
+    "type": "member"
+  }
+ ],
+
   "current": [
     {
       "name": "Prof. Dr. Felipe Campelo",
