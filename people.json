@@ -25,7 +25,7 @@
       "website": "",
       "google_scholar": "",
       "linkedin": "",
-      "photo": "",
+      "photo": "zaina.jpg",
       "type": "member"
     },
     {
@@ -34,7 +34,7 @@
       "website": "",
       "google_scholar": "",
       "linkedin": "",
-      "photo": "",
+      "photo": "jairo.jpg",
       "type": "member"
     }
   ],
@@ -46,7 +46,7 @@
       "website": "https://research-information.bris.ac.uk/en/persons/felipe-campelo/",
       "google_scholar": "https://scholar.google.com/citations?user=jKGZEXIAAAAJ&hl=pt-BR",
       "linkedin": "https://uk.linkedin.com/in/felipe-campelo-60653049",
-      "photo": "",
+      "photo": "felipe.jpg",
       "type": "external_collaborator"
     },
     {
@@ -55,7 +55,7 @@
       "website": "https://teodecampos.github.io/",
       "google_scholar": "https://scholar.google.com/citations?user=dMZCMp0AAAAJ&hl=pt-BR",
       "linkedin": "https://uk.linkedin.com/in/teofilo",
-      "photo": "",
+      "photo": "teo.jpg",
       "type": "external_collaborator"
     }
   ]
