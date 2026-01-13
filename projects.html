@@ -261,8 +261,8 @@
                                 From the SIMBA txt files, a knowledge graph (KG) of accounts, people, agencies, and transactions is constructed. The KG exposes multi-hop structures for visualization, and maintains pointers to original SIMBA rows and keys (Rashkin et al., 2023).
                             </li>
                             <li>
-                                <strong>Step 3 — Learned Predicates and Proof-Based Reasoning.</strong>
-                                Structural and statistical features from the KG are used to train a shared GNN that outputs (i) a global suspicion score for ranking/filtering and (ii) probabilities for a small set of atomic, topology-relevant predicates (e.g., edge- and subgraph-level evidence). Expert knowledge is then encoded as fixed logic rules that compose these neural predicates into laundering typologies, returning both a typology label and provenance-based proofs that identify the specific transactions, accounts, and paths supporting the decision.
+                                <strong>Step 3 — Learned Predicates and Rule-Based Reasoning.</strong>
+                                A shared GNN predicts topology-relevant atomic predicates, which are composed by fixed logical rules into laundering typologies with provenance-based evidence.
                             </li>
                         </ul>
                     </ol>
